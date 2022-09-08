@@ -20,3 +20,6 @@ def auto_id():
    return id_list   
 
 
+print ("Hello word")
+
+
