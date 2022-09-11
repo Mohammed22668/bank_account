@@ -20,6 +20,6 @@ def auto_id():
    return id_list   
 
 
-print ("Hello new_word")
+#print ("Hello new_word")
 
 
