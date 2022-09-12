@@ -22,4 +22,6 @@ def auto_id():
 
 #print ("Hello new_word")
 
+print ("anythink")
+
 
