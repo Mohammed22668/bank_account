@@ -20,5 +20,12 @@ def add_data(list_data):
 
 
 
+<<<<<<< HEAD
+=======
+#print ("Hello new_word")
+
+print ("anythink")
+>>>>>>> 79cc4f16b33fc7b8e7b6c72e723cf61dc977544f
 
 
+print("Im mohammed this is last update")
